@@ -4,7 +4,24 @@ A full-stack, production-ready laundry order management system built with Node.j
 
 ---
 
-## 📸 Features at a Glance
+## � **LIVE DEMO** (Now Running on Production!)
+
+| Component | URL | Status |
+|---|---|---|
+| **Frontend** | 🔗 [exemplary-celebration-production-cbda.up.railway.app](https://exemplary-celebration-production-cbda.up.railway.app) | ✅ **LIVE** |
+| **Backend API** | 🔗 [laundry-management-production-7947.up.railway.app](https://laundry-management-production-7947.up.railway.app) | ✅ **LIVE** |
+| **Database** | MongoDB Atlas + Railway | ✅ **Active** |
+
+### 🔐 Demo Login Credentials
+```
+Username: admin
+Password: admin123
+```
+👉 **Click the Frontend link above → Login → Start using!**
+
+---
+
+## �📸 Features at a Glance
 
 | Feature | Status |
 |---|---|
